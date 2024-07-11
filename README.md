@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I'm Vin 👋
 
-<!--
-**vvv1nnn/vvv1nnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I am a software developer based in Auckland, New Zealand. My tech stacks primarily include JavaScript, HTML, CSS, TypeScript, Tailwind CSS, React, React Native,  Node.js, Express, FireBaseDB and SQLite3. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m currently working on my photography portfolio page and a PSD file editor which are both pinned down below. The portfolio will serve as a personal portfolio for my photography to be showcased and the PSD Editor is a community tool that I am working on for my temple.
+
+-  I’m currently learning and getting a better understanding of Node.js and deepening my knowledge on data structures and algorithms. I will also be sharpening up my python skills in the near future. 
+
+- You can reach out to me through [...](https://www.linkedin.com/in/v9n9t/) or email me, [...](vvvinittt@gmail.com)
+
+
+
