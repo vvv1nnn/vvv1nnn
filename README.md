@@ -7,7 +7,7 @@
 
 -  I’m currently learning and getting a better understanding of Node.js and deepening my knowledge on data structures and algorithms. I will also be sharpening up my python skills in the near future. 
 
-- You can reach out to me through [...](https://www.linkedin.com/in/v9n9t/) or email me, [...](vvvinittt@gmail.com)
+- You can reach out to me through my [Linkedin](https://www.linkedin.com/in/v9n9t/) or my [email](vvvinittt@gmail.com).
 
 
 
